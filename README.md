@@ -1,3 +1,7 @@
+> :warning: Note: This project was archived because I realized it was over-engineered.
+The much lighter [hashcode-utils-kt](https://github.com/joffrey-bion/hashcode-utils-kt), intended for
+HashCode competitors using Kotlin, is much easier to learn due to its much simpler design.
+
 # Google HashCode utils
 [![Bintray](https://api.bintray.com/packages/joffrey-bion/maven/hashcode-utils/images/download.svg)](https://bintray.com/joffrey-bion/maven/hashcode-utils/_latestVersion)
 [![Maven central version](https://img.shields.io/maven-central/v/org.hildan.hashcode/hashcode-utils.svg)](http://mvnrepository.com/artifact/org.hildan.hashcode/hashcode-utils)
